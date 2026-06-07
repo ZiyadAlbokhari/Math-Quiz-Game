@@ -26,4 +26,4 @@ Welcome to the **Math Game Challenge**! An interactive console application desig
 3. Run the code and try to get a full score! ✅
 
 ---
-*A practical project from the Programming Roadmap (Course 5).* 👨‍💻
+**A practical project from the Programming Roadmap (Course 5).** 👨‍💻
