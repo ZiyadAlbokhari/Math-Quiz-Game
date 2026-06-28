@@ -1,6 +1,6 @@
 # 🔢🧠 Math Quiz Game
 
-Welcome to the **Math Quiz Game Challenge**! An interactive console application designed to test and improve your arithmetic skills. This project is built entirely in C++ to practice logical system design and data management.
+**Math Quiz Game Challenge**! An interactive console application designed to test and improve your arithmetic skills. This project is built entirely in C++ to practice logical system design and data management.
 
 ## 🌟 Game Features
 * **Operation Types:** Choose your challenge: Addition ➕, Subtraction ➖, Multiplication ✖️, Division ➗, or a Mix 🔀.
